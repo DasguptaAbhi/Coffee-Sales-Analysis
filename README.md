@@ -32,21 +32,29 @@ This step allowed for a detailed understanding of which products were generating
 I created a pivot table to summarize total sales of different coffee types by year and month. The following steps were taken:
 * Selected the integrated data sheet.
 * Inserted a Pivot Table and set the Row Labels as Coffee Type and the Column Labels as Months, with values aggregated as total sales.
+
+  ![Sales Analysis by Coffee Type](https://github.com/DasguptaAbhi/Coffee-Sales-Analysis/blob/main/Sales%20Analysis%20by%20Coffee%20Type.png)
 ### Line Chart Creation
 A line chart was generated from this pivot table, providing a visual representation of sales trends over time.
-
+![Sales Analysis by Coffee Type chart](https://github.com/DasguptaAbhi/Coffee-Sales-Analysis/blob/main/Sales%20Analysis%20by%20Coffee%20Type%20chart.png)
 ### 3.2 Top Customers Analysis
 In another pivot table, I analyzed the top 5 customers based on total sales. The process included:
 * Highlighting the total sales data.
 * Setting the Row Labels as Customer Names and values as total sales, filtering to show only the top 5 customers.
+
+![Top Customers Analysis](https://github.com/DasguptaAbhi/Coffee-Sales-Analysis/blob/main/Top%20Customers%20Analysis.png)
 ### Bar Chart Creation
 From this pivot table, a bar chart was created to visually depict the contribution of each top customer to overall sales.
+![Top Customers Analysis chart](https://github.com/DasguptaAbhi/Coffee-Sales-Analysis/blob/main/Top%20Customers%20Analysis%20chart.png)
 
 ### 3.3 Country-wise Sales Analysis
 A third pivot table was constructed to analyze total sales by country. The steps included:
 * Using the integrated dataset and selecting Country as Row Labels and total sales as Values.
+
+  ![Country-wise Sales Analysis](https://github.com/DasguptaAbhi/Coffee-Sales-Analysis/blob/main/Country-wise%20Sales%20Analysis.png)
 ### Bar Chart Creation
 A corresponding bar chart was produced to showcase the geographical distribution of coffee sales.
+![Country-wise Sales Analysis chart](https://github.com/DasguptaAbhi/Coffee-Sales-Analysis/blob/main/Country-wise%20Sales%20Analysis%20chart.png)
 
 ## 4. Dashboard Creation
 A comprehensive dashboard was created to encapsulate all the visualizations and insights from the analysis:
@@ -58,6 +66,7 @@ A comprehensive dashboard was created to encapsulate all the visualizations and 
 * Added a timeline slicer for year and month filtering.
 
 The dashboard offers an interactive platform for stakeholders to explore sales data dynamically, thereby aiding in more informed decision-making.
+![final Dashbord](https://github.com/DasguptaAbhi/Coffee-Sales-Analysis/blob/main/Final%20Dashbord.png)
 
 ## 5. Conclusion
 The integration and analysis of the coffee sales dataset have yielded valuable insights into sales performance across various dimensions. The use of advanced Excel functions and visualization techniques has enabled a clearer understanding of customer preferences and sales trends.
