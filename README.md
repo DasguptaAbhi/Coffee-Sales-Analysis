@@ -1,4 +1,4 @@
-# Detailed Project Report on Coffee Sales Analysis Useing Excel
+# Detailed Project Report on Coffee Sales Analysis Using Excel
 ## Executive Summary
 This project report encapsulates the comprehensive analysis of coffee sales using a dataset composed of three distinct sheets: "Orders," "Product," and "Customer." The objective was to integrate the data effectively to derive insights into sales performance, customer behavior, and product popularity. Various Excel techniques, including Power Query, XLOOKUP, INDEX-MATCH, and Pivot Tables, were employed to create a cohesive overview of the coffee sales landscape. A dashboard was developed to visualize key metrics, making it easier for stakeholders to understand the findings.
 ## 1. Introduction
